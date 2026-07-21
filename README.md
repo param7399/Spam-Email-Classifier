@@ -67,13 +67,9 @@ Spam-Email-Classifier
 │
 ├── dataset/
 │   └── spam.csv
-│
 ├── model/
 │   ├── spam_model.pkl
 │   └── vectorizer.pkl
-│
-├── screenshots/
-│
 ├── app.py
 ├── train_model.py
 ├── predict.py
